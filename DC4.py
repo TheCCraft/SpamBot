@@ -249,4 +249,4 @@ def googbye():
     with open("Perms.json","w") as fp:
         json.dump("Perms",fp)
 
-bot.run("OTE5MjAxNDc4MzU3NDE4MDc0.YbSXFg.aqEXb6Aqx1YyecdzSgJsC67VW90")
+bot.run(TOKEN)
